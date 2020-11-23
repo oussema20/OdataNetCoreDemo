@@ -1,0 +1,15 @@
+C:\Users\obenamor\source\repos\OdataNetCoreDemoApI\OdataNetCoreDemoApI.Repository\bin\Debug\netcoreapp3.1\OdataNetCoreDemoApI.Repository.deps.json
+C:\Users\obenamor\source\repos\OdataNetCoreDemoApI\OdataNetCoreDemoApI.Repository\bin\Debug\netcoreapp3.1\OdataNetCoreDemoApI.Repository.runtimeconfig.json
+C:\Users\obenamor\source\repos\OdataNetCoreDemoApI\OdataNetCoreDemoApI.Repository\bin\Debug\netcoreapp3.1\OdataNetCoreDemoApI.Repository.runtimeconfig.dev.json
+C:\Users\obenamor\source\repos\OdataNetCoreDemoApI\OdataNetCoreDemoApI.Repository\bin\Debug\netcoreapp3.1\OdataNetCoreDemoApI.Repository.dll
+C:\Users\obenamor\source\repos\OdataNetCoreDemoApI\OdataNetCoreDemoApI.Repository\bin\Debug\netcoreapp3.1\OdataNetCoreDemoApI.Repository.pdb
+C:\Users\obenamor\source\repos\OdataNetCoreDemoApI\OdataNetCoreDemoApI.Repository\bin\Debug\netcoreapp3.1\OdataNetCoreDemoApI.Model.dll
+C:\Users\obenamor\source\repos\OdataNetCoreDemoApI\OdataNetCoreDemoApI.Repository\bin\Debug\netcoreapp3.1\OdataNetCoreDemoApI.Model.pdb
+C:\Users\obenamor\source\repos\OdataNetCoreDemoApI\OdataNetCoreDemoApI.Repository\obj\Debug\netcoreapp3.1\OdataNetCoreDemoApI.Repository.csprojAssemblyReference.cache
+C:\Users\obenamor\source\repos\OdataNetCoreDemoApI\OdataNetCoreDemoApI.Repository\obj\Debug\netcoreapp3.1\OdataNetCoreDemoApI.Repository.AssemblyInfoInputs.cache
+C:\Users\obenamor\source\repos\OdataNetCoreDemoApI\OdataNetCoreDemoApI.Repository\obj\Debug\netcoreapp3.1\OdataNetCoreDemoApI.Repository.AssemblyInfo.cs
+C:\Users\obenamor\source\repos\OdataNetCoreDemoApI\OdataNetCoreDemoApI.Repository\obj\Debug\netcoreapp3.1\OdataNetCoreDemoApI.Repository.csproj.CoreCompileInputs.cache
+C:\Users\obenamor\source\repos\OdataNetCoreDemoApI\OdataNetCoreDemoApI.Repository\obj\Debug\netcoreapp3.1\OdataNetCoreDemoApI.Repository.csproj.CopyComplete
+C:\Users\obenamor\source\repos\OdataNetCoreDemoApI\OdataNetCoreDemoApI.Repository\obj\Debug\netcoreapp3.1\OdataNetCoreDemoApI.Repository.dll
+C:\Users\obenamor\source\repos\OdataNetCoreDemoApI\OdataNetCoreDemoApI.Repository\obj\Debug\netcoreapp3.1\OdataNetCoreDemoApI.Repository.pdb
+C:\Users\obenamor\source\repos\OdataNetCoreDemoApI\OdataNetCoreDemoApI.Repository\obj\Debug\netcoreapp3.1\OdataNetCoreDemoApI.Repository.genruntimeconfig.cache

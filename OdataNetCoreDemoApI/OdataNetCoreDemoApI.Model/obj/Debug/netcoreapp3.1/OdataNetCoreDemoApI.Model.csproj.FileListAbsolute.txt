@@ -1,0 +1,12 @@
+C:\Users\obenamor\source\repos\OdataNetCoreDemoApI\OdataNetCoreDemoApI.Model\bin\Debug\netcoreapp3.1\OdataNetCoreDemoApI.Model.deps.json
+C:\Users\obenamor\source\repos\OdataNetCoreDemoApI\OdataNetCoreDemoApI.Model\bin\Debug\netcoreapp3.1\OdataNetCoreDemoApI.Model.runtimeconfig.json
+C:\Users\obenamor\source\repos\OdataNetCoreDemoApI\OdataNetCoreDemoApI.Model\bin\Debug\netcoreapp3.1\OdataNetCoreDemoApI.Model.runtimeconfig.dev.json
+C:\Users\obenamor\source\repos\OdataNetCoreDemoApI\OdataNetCoreDemoApI.Model\bin\Debug\netcoreapp3.1\OdataNetCoreDemoApI.Model.dll
+C:\Users\obenamor\source\repos\OdataNetCoreDemoApI\OdataNetCoreDemoApI.Model\bin\Debug\netcoreapp3.1\OdataNetCoreDemoApI.Model.pdb
+C:\Users\obenamor\source\repos\OdataNetCoreDemoApI\OdataNetCoreDemoApI.Model\obj\Debug\netcoreapp3.1\OdataNetCoreDemoApI.Model.csprojAssemblyReference.cache
+C:\Users\obenamor\source\repos\OdataNetCoreDemoApI\OdataNetCoreDemoApI.Model\obj\Debug\netcoreapp3.1\OdataNetCoreDemoApI.Model.AssemblyInfoInputs.cache
+C:\Users\obenamor\source\repos\OdataNetCoreDemoApI\OdataNetCoreDemoApI.Model\obj\Debug\netcoreapp3.1\OdataNetCoreDemoApI.Model.AssemblyInfo.cs
+C:\Users\obenamor\source\repos\OdataNetCoreDemoApI\OdataNetCoreDemoApI.Model\obj\Debug\netcoreapp3.1\OdataNetCoreDemoApI.Model.csproj.CoreCompileInputs.cache
+C:\Users\obenamor\source\repos\OdataNetCoreDemoApI\OdataNetCoreDemoApI.Model\obj\Debug\netcoreapp3.1\OdataNetCoreDemoApI.Model.dll
+C:\Users\obenamor\source\repos\OdataNetCoreDemoApI\OdataNetCoreDemoApI.Model\obj\Debug\netcoreapp3.1\OdataNetCoreDemoApI.Model.pdb
+C:\Users\obenamor\source\repos\OdataNetCoreDemoApI\OdataNetCoreDemoApI.Model\obj\Debug\netcoreapp3.1\OdataNetCoreDemoApI.Model.genruntimeconfig.cache
